@@ -14,7 +14,7 @@ const App = () => {
   useEffect(() => {
     const fetchItems = async () => {
       const result = await axios(`https://www.breakingbadapi.com/api/characters?name=${query}`);
-      console.log(result.data);
+      //console.log(result.data);
       // set this result data to the items state
       // so we do that with setItems 
       setItems(result.data);
