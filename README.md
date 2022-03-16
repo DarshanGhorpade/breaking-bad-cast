@@ -1,3 +1,11 @@
+React app: Breaking Bad Cast
+
+This is developed using react which uses breaking bad api to show the caharacters images on card front side and there details like character name, real name, nickname, birthday and status on back side of card.
+
+It uses fliping cards to show the details of characters.
+
+You can search the character details by using there names in the show.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
