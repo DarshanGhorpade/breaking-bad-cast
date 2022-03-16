@@ -1,6 +1,6 @@
 React app: Breaking Bad Cast
 
-# [Go to live demo](https://breakingbadcastweb.herokuapp.com/)
+### [Go to live demo](https://breakingbadcastweb.herokuapp.com/)
 
 This is developed using react which uses breaking bad api to show the caharacters images on card front side and there details like character name, real name, nickname, birthday and status on back side of card.
 
